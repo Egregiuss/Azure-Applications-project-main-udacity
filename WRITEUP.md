@@ -34,3 +34,6 @@
 - The level of control needed is also another factor to be considered as VMs allow you full access and control.
 
 - A change in security requirement may also necessitate a chnage in decision as VMs  will be needed for dedicated servers for security reasons.
+
+
+URL:https://udacity-egregius.azurewebsites.net/
